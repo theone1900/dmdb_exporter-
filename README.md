@@ -6,11 +6,11 @@
 
 监控页面
 目前监控项为：
-1.Tps （每秒事务数）
-2.会话信息（active，inactive，maxsession，idle session）
-3.Dml 信息（select，insert，update，delete）
-4.db load信息（db time cpu time,io 响应时间）
-5.表空间信息
+#1.Tps （每秒事务数）
+#2.会话信息（active，inactive，maxsession，idle session）
+#3.Dml 信息（select，insert，update，delete）
+#4.db load信息（db time cpu time,io 响应时间）
+#5.表空间信息
 
 
 
